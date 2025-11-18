@@ -1,0 +1,63 @@
+Title: Receiving Chemicals in the Laboratory
+SOP Number: 0001
+Version: 1.0
+Effective Date: [19/11/2025]
+Author: Sean West
+
+
+Purpose:
+To ensure safe and compliant handling of chemicals upon delivery, including verification, documentation, and special procedures for new chemicals.
+
+
+Scope:
+This SOP applies to all laboratory technicians receiving chemicals in the Chadstone laboratory.
+
+Responsibilities:
+Laboratory Technician: Inspect, document, and store chemicals safely.
+
+Required Resources:
+PPE (lab coat, gloves, safety glasses)
+Delivery docket or invoice
+Chemical register (digital & paper) 
+SDS (Safety Data Sheet)
+Spill kit (in case of leaks)
+
+
+Procedure:
+Step 1: Prepare for Delivery
+Wear appropriate PPE before handling any chemical package.
+Ensure the receiving area is clear and spill kit is accessible.
+
+Step 2: Inspect the Package
+Check for damage or leaks.
+Verify correct labeling (chemical name, hazard symbols).
+Confirm integrity of container seals.
+If damaged or leaking: isolate the package, follow spill response SOP, notify manager immediately.
+
+Step 3: Verify Documentation
+Compare delivery docket with order: chemical name, quantity, concentration.
+Confirm supplier details and batch number.
+
+Step 4: Check if Chemical is New
+Search the chemical register.
+If already listed, proceed to Step 6.
+If not listed, follow Step 5.
+
+Step 5: Process New Chemical
+Obtain SDS from supplier or online.
+Review hazards and storage requirements.
+Update chemical register with chemical name, supplier, hazard classification, storage location.
+
+Step 6: Store Chemical
+Place chemical in correct storage area eg (flammables cabinet, corrosives cabinet, refrigerated storage if required).
+Ensure segregation of incompatible chemicals.
+
+Step 7: Record Receipt
+Update chemical register with date received, quantity, batch number.
+File delivery docket and SDS in lab records.
+
+
+Safety and Compliance
+Always follow PPE requirements.
+Never accept chemicals without proper labeling or SDS.
+Report any discrepancies immediately.
