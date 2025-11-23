@@ -1,5 +1,12 @@
-0004 Classroom check
-
+Title: Classroom Check
+SOP Number: 0004
+Version: 1.0
+Effective Date: [24/11/2025]
+Author: Sean West
+Purpose:
+To ensure classrooms are properly stocked with essential laboratory equipment and consumables, minimizing wasted movement and maintaining readiness for practical sessions.
+Scope:
+This SOP applies to all laboratory technicians performing scheduled classroom checks and restocking in the Chadstone laboratory.
 Trolley Setup:
 
 1.  Load glassware:
@@ -49,4 +56,5 @@ Restocking Steps:
 10. Place any extras found on top of the bench.
 11. After all benches are checked:
     *   Collect extras and redistribute to benches missing items.
+
 12. Make notes of missing items, new orders, and other observations on the clipboard.
