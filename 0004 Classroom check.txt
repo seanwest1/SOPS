@@ -1,12 +1,13 @@
 Title: Classroom Check
 SOP Number: 0004
-Version: 1.0
+Version: 01.00.01
 Effective Date: [24/11/2025]
 Author: Sean West
 Purpose:
 To ensure classrooms are properly stocked with essential laboratory equipment and consumables, minimizing wasted movement and maintaining readiness for practical sessions.
 Scope:
 This SOP applies to all laboratory technicians performing scheduled classroom checks and restocking in the Chadstone laboratory.
+
 Trolley Setup:
 
 1.  Load glassware:
@@ -26,7 +27,7 @@ Trolley Setup:
     *   Stirring rods
     *   Funnels
 4.  Add other items:
-    *   Clipboard and paper for notes
+    *   Clipboard, pen and paper for notes
     *   At least 5 newspapers
 
 Restocking Steps:
@@ -38,6 +39,7 @@ Restocking Steps:
     *   5 goggles
     *   At least 3 boxes of gloves
     *   1 bundle of paper towels
+    *   Clear obstructions from emergency gas shut off
 4.  Move to lab utensils area:
     *   Ensure at least 12 of each: spatulas, test tube holders (wood and metal), watch glasses, tongs, stirring rods, funnels.
     *   Ensure at least 5 newspapers.
@@ -54,7 +56,9 @@ Restocking Steps:
     *   Silicone bench mat
 9.  If broken or dirty, retain and make a note.
 10. Place any extras found on top of the bench.
-11. After all benches are checked:
+11. Set up each bench set for easy visual inspection.
+12. After all benches are checked:
     *   Collect extras and redistribute to benches missing items.
 
-12. Make notes of missing items, new orders, and other observations on the clipboard.
+13. Make notes of missing items, new orders, and other observations on the clipboard.
+
