@@ -1,5 +1,6 @@
 Index
 
-0001 Receiving Chemicals in the Laboratory
-0002 spill response SOP
-0003 Adding chemicals to the chemical register
+0001 Receiving Chemicals in the Laboratory.
+0002 spill response SOP.
+0003 Adding chemicals to the chemical register.
+0004 Classroom check.
